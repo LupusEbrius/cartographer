@@ -1,0 +1,11 @@
+{
+    "username": "demo",
+    "email": "m.guernsey@outlook.com",
+    "worlds": [
+        {
+            "id": 1,
+            "name": "Midgar",
+            "overview": "Land of the mortals, where fjords are plentiful and Norsemen even more. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet nibh convallis, posuere lectus ac, venenatis sem. Proin consectetur tempor dolor, ac semper erat convallis vel. Curabitur nisl velit, interdum sed erat at, ultricies porta elit. Cras at placerat nisi. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In dignissim volutpat augue, vel blandit enim aliquam nec. Donec malesuada tortor ante, id pulvinar lectus tincidunt quis. Suspendisse in iaculis risus. Etiam congue dui augue, eu tincidunt ligula malesuada vel."
+        }
+    ]
+}

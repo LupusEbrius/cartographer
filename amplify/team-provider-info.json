@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-cartographer-dev-11123-authRole",
+            "UnauthRoleArn": "arn:aws:iam::923341793859:role/amplify-cartographer-dev-11123-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::923341793859:role/amplify-cartographer-dev-11123-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-cartographer-dev-11123-deployment",
+            "UnauthRoleName": "amplify-cartographer-dev-11123-unauthRole",
+            "StackName": "amplify-cartographer-dev-11123",
+            "StackId": "arn:aws:cloudformation:us-east-1:923341793859:stack/amplify-cartographer-dev-11123/defabe60-e058-11ea-a573-12446ecd5e01",
+            "AmplifyAppId": "d3q69npbsmd2h1"
+        },
+        "categories": {
+            "auth": {
+                "cartographer5ea27405": {}
+            }
+        }
+    }
+}
